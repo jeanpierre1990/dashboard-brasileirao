@@ -1,4 +1,4 @@
-# ⚽ Dashboard Interativo – Brasileirão Série A
+# ⚽ Dashboard Interativo – Brasileirão Série A (03-24)
 
 Um dashboard profissional desenvolvido em **Python + Streamlit**, com visual moderno, múltiplas abas, gráficos interativos e análise completa de clubes, estádios, técnicos e desempenho ao longo das temporadas.
 
