@@ -1,0 +1,13 @@
+.desktop.ini
+.untitled-1.py
+.gitignore
+# Arquivos do Windows
+desktop.ini
+
+# Arquivos temporários
+Untitled*.py
+
+# Cache Python
+__pycache__/
+*.pyc
+
